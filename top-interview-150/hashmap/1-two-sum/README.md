@@ -1,4 +1,4 @@
-# [Two Sum](https://leetcode.com/problems/two-sum/)
+# [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
 ## Description
 
@@ -43,3 +43,5 @@ You can return the answer in any order.
 **Follow-up:** Can you come up with an algorithm that is less than `O(n2)` time complexity?
 
 ## [*My solution*](my-solution.py)
+
+![img](complexity.png)
